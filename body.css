@@ -5,4 +5,9 @@ body
     background-position-x: right;
     /*ovo dolje je da se ta slika ne ponavlja vec se izvrsi jednom*/
     background-repeat: no-repeat;
+
+}
+p{
+    font-family: Verdana,Helvetica,sans-serif;
+    font size: 12px;
 }
