@@ -5,6 +5,7 @@ body
     background-position-x: right;
     /*ovo dolje je da se ta slika ne ponavlja vec se izvrsi jednom*/
     background-repeat: no-repeat;
+    text-align: "justify";
 
 }
 p{
@@ -19,4 +20,15 @@ p.citat
     background-color: #ffffcc;
 
     
+}
+p.drugi
+{
+    color: "firebrick";
+    text-align: center;
+    text-decoration: underline;
+    
+}
+p.treci
+{
+    text-align: right;
 }
