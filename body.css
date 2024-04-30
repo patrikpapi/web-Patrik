@@ -26,9 +26,22 @@ p.drugi
     color: FireBrick;
     text-align: center;
     text-decoration: underline;
+    border-width: thin;
+    border-style: solid;
+    border-left-color:white;
+    border-bottom-color:white;
+    border-right-color:black;
+    border-top-color:black;
+    
+    
+    
+    
     
 }
 p.treci
 {
     text-align: right;
+    border-style: inset;
+    Border-width:thick;
+    border-color:green;
 }
