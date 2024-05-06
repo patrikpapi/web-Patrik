@@ -85,12 +85,12 @@ ul li{
 }
 ul li a:hover{
     text-decoration: none;
-    border-left-color:Orange Red;
+    border-left-color:#ccf;
 
 }
 ul ul li a:hover{
     text-decoration: none;
-    border-left-color:Orange Red;
+    border-left-color:#ccf;
     
 }
     
