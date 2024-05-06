@@ -86,4 +86,13 @@ ul li{
     border-style:solid;
     
 }
+ul li a:hover{
+    text-decoration: none;
+    border-left-color:#ccf;
+}
+ul ul li a:hover{
+    text-decoration: none;
+    border-left-color:#ccf;
+}
+    
     
