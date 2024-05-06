@@ -80,10 +80,7 @@ ul li{
     color:chocolate4;
     font-weight: bold;
     border-left-width: 6px;
-    border-bottom-width: 0px;
-    border-top-width: 0px;
-    border-right-width: 0px;
-    border-style:solid;
+    border-left-style:solid;
     
 }
 ul li a:hover{
