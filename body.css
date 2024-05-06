@@ -75,5 +75,8 @@ ul li{
     list-style:none;
     margin: 0px;
     padding:0px;
+    color:DarkTurquoise;
+    border-left-width: 6px;
+    font-weigt: bold;
 }
     
