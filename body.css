@@ -1,7 +1,35 @@
 body
 {
- backgroud-color:"red";
+    background-image:url("baric.png");
+    background-position-y: top;
+    background-position-x: right;
+    /*ovo dolje je da se ta slika ne ponavlja vec se izvrsi jednom*/
+    background-repeat: no-repeat;
+    text-align: "justify";
  
+}
+p{
+    font-family: Verdana,Helvetica,sans-serif;
+    font size: 12px;
+}
+p.citat
+{
+    font-style: italic;
+    font-size: 11px;
+    border: 1px solid #000;
+    background-color: #ffffcc;
+ 
+    
+}
+p.drugi
+{
+    color: FireBrick;
+    text-align: center;
+    text-decoration: underline;
+}
+p.treci
+{
+    text-align: right;
 }
  
 
