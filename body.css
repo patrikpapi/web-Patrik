@@ -1,14 +1,8 @@
 body
-{
  
-    background-position-y: top;
-    background-position-x: right;
-    /*ovo dolje je da se ta slika ne ponavlja vec se izvrsi jednom*/
-    background-repeat: no-repeat;
-    background-color:#7fffd4;
-    text-align: "justify";
 
-}
+
+
 p{
     font-family: Verdana,Helvetica,sans-serif;
     font size: 12px;
