@@ -1,13 +1,5 @@
 body
-{
-    background-image:url("baric.png");
-    background-position-y: top;
-    background-position-x: left;
-    /*ovo dolje je da se ta slika ne ponavlja vec se izvrsi jednom*/
-    background-repeat: no-repeat;
-    text-align: "justify";
- 
-}
+
 p{
     font-family: Verdana,Helvetica,sans-serif;
     font size: 12px;
