@@ -1,7 +1,7 @@
 body
 .carousel-wrapper{
   height:400px;
-  position:relative;
+  position:bottom;
   width:800px;
   margin:0 auto;
 }
