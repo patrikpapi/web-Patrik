@@ -5,7 +5,10 @@ body
 }
 table
 {
-    border="3" width=50% cellspacing=15 cellpadding=15
+    border="3" ;
+    width=50%;
+    cellspacing=15 ;
+    cellpadding=15;
 }
 p{
     font-family: Verdana,Helvetica,sans-serif;
