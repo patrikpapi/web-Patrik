@@ -11,6 +11,10 @@ table
     cellspacing:15 ;
     cellpadding:15;
 }
+tr { 
+  border: 3px solid;
+  
+}
 p{
     font-family: Verdana,Helvetica,sans-serif;
     font size: 12px;
