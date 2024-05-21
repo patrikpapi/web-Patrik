@@ -6,6 +6,7 @@ body
 table
 {
     border="3px" ;
+    border-color="blue";
     width=50%;
     cellspacing=15 ;
     cellpadding=15;
