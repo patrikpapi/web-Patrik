@@ -1,6 +1,8 @@
 #lista{
- float: left;
-    clear: left;
+    list-style-type: none;
+    padding: 0;
+  margin-bottom: 10px; 
+ 
 }
 
 
