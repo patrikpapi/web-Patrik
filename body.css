@@ -1,9 +1,6 @@
 #lista{
-display:block;
-   float:left;
-   width:300px; /* adjust */
-   height:150px; /* adjust */
-   padding: 5px; /*adjust*/
+ float: left;
+    clear: left;
 }
 
 
