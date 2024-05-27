@@ -1,7 +1,9 @@
 #lista{
- list-style-type: none;
-  margin: 0;
-  padding: 0;
+display:block;
+   float:left;
+   width:300px; /* adjust */
+   height:150px; /* adjust */
+   padding: 5px; /*adjust*/
 }
 
 
