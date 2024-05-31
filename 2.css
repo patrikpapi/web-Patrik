@@ -163,5 +163,12 @@ clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
     left:150px;
   }
 }
-
+#abcd{
+   width: 20px;
+      height: 20px;
+}
+#abcde{
+   width: 20px;
+      height: 20px;
+}
 
